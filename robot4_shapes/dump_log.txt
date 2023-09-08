@@ -1,0 +1,78 @@
+# Dump hierarchy from SolidWorks 
+# Assembly: D:\sunjieqiang\MyRobot\装配体5.SLDASM
+
+
+         -Favorites [FavoriteFolder]
+         -History [HistoryFolder]
+         -Selection Sets [SelectionSetFolder]
+         -传感器 [SensorFolder]
+         -设计活页夹 [DocsFolder]
+         -注解 [DetailCabinet]
+           -Notes [NotesAreaFtrFolder]
+           -Notes Area [AnnotationViewFeat]
+           -Notes1___EndTag___ [FtrFolder]
+         -Markups [InkMarkupFolder]
+         -光源、相机与布景 [EnvFolder]
+           -环境光源 [AmbientLight]
+           -线光源 1 [DirectionLight]
+           -线光源 2 [DirectionLight]
+           -线光源 3 [DirectionLight]
+           -线光源 4 [DirectionLight]
+         -备注 [CommentsFolder]
+         -方程式 [EqnFolder]
+         -前视基准面 [RefPlane]
+         -上视基准面 [RefPlane]
+         -右视基准面 [RefPlane]
+         -原点 [OriginProfileFeature]
+         -装配体4-1 [Reference]
+         -装配体4-3 [Reference]
+         -配合 [MateGroup]
+           -轮廓中心2 [MateProfileCenter]
+   +装配体4-1 <默认>
+           -Favorites [FavoriteFolder]
+     +装配体4-1/装配体3-1 <默认>
+             -Favorites [FavoriteFolder]
+       +装配体4-1/装配体3-1/wheel3-2 <默认>
+               -评论 [CommentsFolder]
+               -草图1 [ProfileFeature]
+       +装配体4-1/装配体3-1/body-1 <默认>
+               -Favorites [FavoriteFolder]
+               -草图1 [ProfileFeature]
+       +装配体4-1/装配体3-1/shaft-1 <默认>
+               -Favorites [FavoriteFolder]
+               -草图1 [ProfileFeature]
+       +装配体4-1/装配体3-1/wheel3-1 <默认>
+               -评论 [CommentsFolder]
+               -草图1 [ProfileFeature]
+     +装配体4-1/球形铰链-1 <默认>
+             -评论 [CommentsFolder]
+       +装配体4-1/球形铰链-1/座-1 <默认>
+               -评论 [CommentsFolder]
+               -草图1 [ProfileFeature]
+       +装配体4-1/球形铰链-1/套-1 <默认>
+               -评论 [CommentsFolder]
+               -草图1 [ProfileFeature]
+   +装配体4-3 <默认>
+           -Favorites [FavoriteFolder]
+     +装配体4-3/装配体3-1 <默认>
+             -Favorites [FavoriteFolder]
+       +装配体4-3/装配体3-1/wheel3-2 <默认>
+               -评论 [CommentsFolder]
+               -草图1 [ProfileFeature]
+       +装配体4-3/装配体3-1/body-1 <默认>
+               -Favorites [FavoriteFolder]
+               -草图1 [ProfileFeature]
+       +装配体4-3/装配体3-1/shaft-1 <默认>
+               -Favorites [FavoriteFolder]
+               -草图1 [ProfileFeature]
+       +装配体4-3/装配体3-1/wheel3-1 <默认>
+               -评论 [CommentsFolder]
+               -草图1 [ProfileFeature]
+     +装配体4-3/球形铰链-1 <默认>
+             -评论 [CommentsFolder]
+       +装配体4-3/球形铰链-1/座-1 <默认>
+               -评论 [CommentsFolder]
+               -草图1 [ProfileFeature]
+       +装配体4-3/球形铰链-1/套-1 <默认>
+               -评论 [CommentsFolder]
+               -草图1 [ProfileFeature]
